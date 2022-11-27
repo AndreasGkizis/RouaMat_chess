@@ -1,0 +1,8 @@
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\obj\Debug\Recap_3_2.csproj.AssemblyReference.cache
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\obj\Debug\Recap_3_2.csproj.SuggestedBindingRedirects.cache
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\obj\Debug\Recap_3_2.csproj.CoreCompileInputs.cache
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\bin\Debug\Recap_3_2.exe.config
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\bin\Debug\Recap_3_2.exe
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\bin\Debug\Recap_3_2.pdb
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\obj\Debug\Recap_3_2.exe
+E:\PeopeCert Bootcamp\My files\recap\Recap_3_2\obj\Debug\Recap_3_2.pdb
